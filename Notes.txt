@@ -9,4 +9,4 @@ git remote add origin https://github.com/nsanjib12/gittest.git  \\set origin of 
 git push -u origin main \\to push the files on git remotely
 git branch \\ to get the branch name locally(main\master)
 git branch -M main \\to change branch(from master to main)
-
+sanju baba
