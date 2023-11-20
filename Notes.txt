@@ -7,4 +7,6 @@ git add example/py \\to upload only that py file
 git commit -m "first commit" \\added the files on the github folder
 git remote add origin https://github.com/nsanjib12/gittest.git  \\set origin of that remote git location
 git push -u origin main \\to push the files on git remotely
-git clone https://github.com/nsanjib12/gittest.git \\to download or clone the repo from the url
+git branch \\ to get the branch name locally(main\master)
+git branch -M main \\to change branch(from master to main)
+
