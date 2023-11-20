@@ -5,4 +5,6 @@ git status \\to check the status of the files of the project
 git add . \\ to add all the files 
 git add example/py \\to upload only that py file
 git commit -m "first commit" \\added the files on the github folder
-
+git remote add origin https://github.com/nsanjib12/gittest.git  \\set origin of that remote git location
+git push -u origin main \\to push the files on git remotely
+git clone https://github.com/nsanjib12/gittest.git \\to download or clone the repo from the url
